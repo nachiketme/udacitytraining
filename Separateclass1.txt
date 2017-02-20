@@ -1,2 +1,2 @@
-THis is separate class which has nothing to do with Master and will get merge later
+THis is separate class which has chnages done here to do with Master and will get merge later
 this class is from qa branch and not present anywhere else
